@@ -1,0 +1,37 @@
+body {
+	background-color= white;
+	border: 3px solid black;
+	margin: 5px 5px 5px 5px;
+	padding: 30px 20px 20px 20px;
+}
+
+#titulo {
+	position : absolute;
+	font-size: 20px;
+	font-family: Arial;
+	left: 30px;
+	top: 5px;
+	margin-top: 5px;
+}
+
+#radio {
+	font-weight: bold;
+	height: 45px;
+	margin-top: 45px;
+}
+
+#box {
+	font-weight: bold;
+	size: 13;
+}
+
+#calculo {
+	margin-top: 20px;
+	height: 30px;
+}
+
+#alinhamento {
+	position: absolute;
+	left: 100px;
+	size: 50;
+}	
